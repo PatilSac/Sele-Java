@@ -1,12 +1,12 @@
-Java Selenium Project
+## Java Selenium Project
 
 This is a TestNG based Java Page Object model project sample created by Patilsac.
 
-Prerequisites to run tests:
+#Prerequisites to run tests:
 Need eclipse
 Need to incluse external jars /lib/* files to the java project source in eclipse.
 
-Basics:
+## Basics:
 
 Sele-Java/bin/com/technocredits/base : 
 This is directory with base layer classes and Selenium methods predefined methods for UI funcitons such as click, select text on browser UI, launch browse and URL, take screenshot
